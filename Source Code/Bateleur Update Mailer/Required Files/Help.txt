@@ -1,0 +1,14 @@
+Bateleur Update Mailer is used to send out notification emails to all group members of a specified course when that course's website is updated. The message sent out is fixed and the member list for the course is obtained from the LDAP service running on the Commerce webserver.
+
+To send out the notification emails, simple click select the required Novell course group from the drop down list and then click on the Generate button. (If you don't hold down SHIFT during application load, the the course list won't be populated.)
+
+Note that Bateleur Update Mailer uses obe1.com.uct.ac.za as the SMTP server, meaning that only mails from within UCT can be sent to.
+
+The silent checkbox toggles operation complete sounds.
+
+The Help menu item displays this help file.
+
+The About menu item simply displays more information about Bateleur Update Mailer. 
+
+
+-- Last Updated: 13/10/2007 --
